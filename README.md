@@ -8,5 +8,5 @@ Also, we add some Bootstap and CSS code to improve the view of the web applicati
 
 ## View of the web application. 
 
-<img src="https://github.com/Jponce25/Mission-to-Mars/blob/6255e2d4aa938d20735cabd077a2e08478d8e776/images/FinalWeb.png" width="500">
+<img src="https://github.com/Jponce25/Mission-to-Mars/blob/6255e2d4aa938d20735cabd077a2e08478d8e776/images/FinalWeb.png" width="800">
 
