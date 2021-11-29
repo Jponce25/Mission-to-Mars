@@ -7,7 +7,7 @@ app = Flask(__name__)
 # Use flask_pymongo to set up mongo connection
 # Normal Code
 app.config["MONGO_URI"] = "mongodb://localhost:27017/mars_app"
-# However, on my computer for security reasons I require the following code to run including the User and Pass of the MongoDB
+# However, on my computer for security reasons I require to modify the code in order to add the User and Pass of the MongoDB
 # app.config["MONGO_URI"] = "mongodb://user:pass@127.0.0.1:27017/mars_app"
 mongo = PyMongo(app)
 
